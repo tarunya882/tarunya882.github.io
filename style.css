@@ -10,7 +10,8 @@ body{
     background-color: darkgray;
   }
   bg{
-      
+    padding-top: 100px;
+    size: 100px; 
   }
 
 .text-style {
