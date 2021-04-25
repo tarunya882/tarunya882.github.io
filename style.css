@@ -43,3 +43,8 @@ ul {
     vertical-align: middle;
     width: 100%;
   }
+
+  .font-style {
+      font-size: larger;
+      font-family: roboto, sans-serif;
+  }
