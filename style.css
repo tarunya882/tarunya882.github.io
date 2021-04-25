@@ -13,6 +13,9 @@
     padding-top: 100px;
     size: 100px; 
 }
+.ca{
+    background-color: currentcolor;
+}
 
 .text-style {
     font-family: roboto, sans-serif;
