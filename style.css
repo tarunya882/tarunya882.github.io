@@ -2,6 +2,10 @@
     color:aliceblue;
     background-image: url('wavy-blue-glitter.jpg');
 }
+body{
+    background-color: darkgray;
+    padding-top: 30px;
+  }
 
 .text-style {
     font-family: roboto, sans-serif;
@@ -11,10 +15,6 @@
 ul {
     display: flex;
     flex-wrap: wrap;
-  }
-  body{
-    background-color: darkgray;
-    padding-top: 30px;
   }
   
   li {
