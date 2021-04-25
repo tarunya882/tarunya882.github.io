@@ -8,6 +8,29 @@
     font-size: larger;
 }
 
+ul {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  body{
+    background-color: darkgray;
+    padding-top: 30px;
+  }
+  
+  li {
+    height: 40vh;
+    flex-grow: 1;
+  }
+  head{
+    background-color: lightseagreen;
+  }
+  img {
+    max-height: 100%;
+    min-width: 100%;
+    object-fit: cover;
+    vertical-align: bottom;
+  }
+
   .row {
     display: flex;
     flex-wrap: wrap;
