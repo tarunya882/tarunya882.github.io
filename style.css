@@ -9,10 +9,10 @@
 body{
     background-color: darkgray;
   }
-  bg{
+.bg{
     padding-top: 100px;
     size: 100px; 
-  }
+}
 
 .text-style {
     font-family: roboto, sans-serif;
