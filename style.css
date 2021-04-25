@@ -2,8 +2,15 @@
     color:aliceblue;
     background-image: url('wavy-blue-glitter.jpg');
 }
+.about{
+    margin-top: 70px;
+    font-style: oblique;
+}
 body{
     background-color: darkgray;
+  }
+  bg{
+      
   }
 
 .text-style {
