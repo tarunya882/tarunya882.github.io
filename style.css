@@ -14,11 +14,6 @@
     background-color: currentcolor;
 }
 
-.text-style {
-    font-family: roboto, sans-serif;
-    font-size: larger;
-}
-
 ul {
     display: flex;
     flex-wrap: wrap;
@@ -57,7 +52,8 @@ ul {
     width: 100%;
   }
 
-  .font-style {
-      font-size: larger;
-      font-family: roboto, sans-serif;
+  .global-text-style {
+    font-size: larger;
+    font-family: roboto, sans-serif;
+    letter-spacing: 0.5px;
   }
