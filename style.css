@@ -57,3 +57,6 @@ ul {
     font-family: roboto, sans-serif;
     letter-spacing: 0.5px;
   }
+  .transparent{
+    background-image: url('wavy-blue-glitter.jpg');
+  }
