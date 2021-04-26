@@ -60,3 +60,8 @@ ul {
   .transparent{
     background-image: url('wavy-blue-glitter.jpg');
   }
+  .font{
+    color: white;
+    text-transform: uppercase;
+    font-size: xx-large;
+  }
